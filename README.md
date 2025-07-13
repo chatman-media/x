@@ -1,5 +1,7 @@
 # X Digital Marketplace
 
+![X Digital Marketplace Architecture](X.svg)
+
 🌍 **Language / Язык / 语言**: [English](README.md) | [Русский](ru/README.md) | [中文](cn/README.md)
 
 X Digital Marketplace is a comprehensive ecosystem of digital platforms, uniting several key directions:
