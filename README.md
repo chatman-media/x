@@ -1,57 +1,63 @@
 # X Digital Marketplace
 
-X Digital Marketplace - это комплексная экосистема цифровых платформ, объединяющая несколько ключевых направлений:
+🌍 **Language / Язык / 语言**: [English](README.md) | [Русский](ru/README.md) | [中文](cn/README.md)
 
-## Основные платформы
+X Digital Marketplace is a comprehensive ecosystem of digital platforms, uniting several key directions:
 
-- [Y Media](Y.md) - Контент-платформа (wy.media)
-  - Open Source архитектура для различных типов контента
-  - Инновационная система ранжирования на основе AI
-  - Гибкая модель монетизации (1% комиссия)
-  - Интеграция с облачными хранилищами по регионам
+## Main Platforms
 
-- [W Digital](W.md) - Финансовая платформа (doubleu.digital)
-  - Торговая платформа для цифровых и традиционных активов
-  - Смарт-контракты и DeFi интеграция
-  - Продвинутая аналитика и безопасность
+- [Y Media](ru/Y.md) - Content platform (wy.media)
+  - Open Source architecture for various content types
+  - Innovative AI-based ranking system
+  - Flexible monetization model (1% commission)
+  - Integration with cloud storage by regions
 
-- [Z Market](Z.md) - Маркетплейс (zee.market)
-  - Универсальная платформа для товаров и услуг
-  - AI-ассистент для упрощения взаимодействия
-  - Интеграция с существующими платформами
+- [W Digital](ru/W.md) - Financial platform (doubleu.digital)
+  - Trading platform for digital and traditional assets
+  - Smart contracts and DeFi integration
+  - Advanced analytics and security
 
-- [V Market](V.md) - Транспортная платформа (vee.market)
-  - Маркетплейс транспортных и логистических заказов
-  - Оптимизация маршрутов с помощью AI
-  - Интеграция складов и мультимодальных перевозок
+- [Z Market](ru/Z.md) - Marketplace (zee.market)
+  - Universal platform for goods and services
+  - AI assistant for simplified interaction
+  - Integration with existing platforms
 
-## Структура владения
+- [V Market](ru/V.md) - Transport platform (vee.market)
+  - Marketplace for transport and logistics orders
+  - AI-powered route optimization
+  - Warehouse integration and multimodal transportation
 
-- 51% - X Digital (основной фонд)
-- 15% - Программистам
-- 15% - Исполнителям на платформах
-- 10% - Клиентам
-- 9% - Инвестиции и бонусы
+## Ownership Structure
 
-## Техническая документация
+- 51% - X Digital (main fund)
+- 15% - Developers
+- 15% - Platform performers
+- 10% - Clients
+- 9% - Investments and bonuses
 
-- [X.png](X.png) - Архитектурная диаграмма
-- [X.svg](X.svg) - Векторная версия диаграммы
-- [chatman.media.md](chatman.media.md) - Медиа-контент и спецификации
+## Documentation
 
-## Содержание
+📖 **Detailed Documentation**: [English](/en/) | [Русский](/ru/) | [中文](/cn/)
 
-- [X.md](X.md) - Основная заметка
-- [Y.md](Y.md) - Дополнительные материалы
-- [Z.md](Z.md) - Технические детали
-- [V.md](V.md) - Архитектурные решения
-- [W.md](W.md) - Предыдущие наработки
+### Main Documentation
 
-## Изображения
+- [X.md](ru/X.md) - Main note
+- [Y.md](ru/Y.md) - Additional materials  
+- [Z.md](ru/Z.md) - Technical details
+- [V.md](ru/V.md) - Architectural solutions
+- [W.md](ru/W.md) - Previous developments
 
-- [X.png](X.png) - Основная диаграмма
-- [X.svg](X.svg) - Векторная версия диаграммы
+### Technical Documentation
 
-## Структура
+- [X.png](X.png) - Architecture diagram
+- [X.svg](X.svg) - Vector version of diagram
+- [chatman.media.md](ru/chatman.media.md) - Media content and specifications
 
-Каждая заметка содержит подробное описание соответствующей темы. Файлы расположены в хронологическом порядке, где более новые заметки содержат актуальную информацию. 
+### Images
+
+- [X.png](X.png) - Main diagram
+- [X.svg](X.svg) - Vector version of diagram
+
+### Structure
+
+Each note contains a detailed description of the corresponding topic. Files are arranged in chronological order, where newer notes contain current information. 
