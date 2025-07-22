@@ -39,7 +39,6 @@ X Digital Marketplace is a comprehensive ecosystem of digital platforms, uniting
 
 - [X.png](../X.png) - Architecture diagram
 - [X.svg](../X.svg) - Vector version of diagram
-- [chatman.media.md](/en/chatman.media.md) - Media content and specifications
 
 ## Content
 

@@ -39,7 +39,6 @@ X 数字市场是一个综合性的数字平台生态系统，联合了几个关
 
 - [X.png](../X.png) - 架构图
 - [X.svg](../X.svg) - 图表的矢量版本
-- [chatman.media.md](/cn/chatman.media.md) - 媒体内容和规范
 
 ## 内容
 
